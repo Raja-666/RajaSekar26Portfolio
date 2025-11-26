@@ -3,7 +3,7 @@ import { Button } from '@/components/ui/button';
 import { Card } from '@/components/ui/card';
 import AnimatedText from '@/components/AnimatedText';
 import { useNavigate } from 'react-router-dom';
-import ThreeBackground from '@/components/Threebackground'
+import ThreeBackground from '@/components/ThreeBckground'
 
 const Hero = () => {
   const navigate = useNavigate();
